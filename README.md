@@ -1,6 +1,12 @@
 # awesome-dotnet-tools
 A list of awesome dotnet tools
 
+## Source Generators 
+
+[ThisAssembly](https://github.com/devlooped/ThisAssembly) : A set of source generators that create constants from things like the paths of local files, assemblyinfo properties, git branch & commit and more!
+
+# Actual 'dotnet tools' in the formal sense
+
 ## Dependencies & Versioning
 
 - [Snitch](https://github.com/spectresystems/snitch) : A tool that help you find transitive package references that can be removed. 
