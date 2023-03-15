@@ -5,7 +5,7 @@ A list of awesome dotnet tools
 
 [ThisAssembly](https://github.com/devlooped/ThisAssembly) : A set of source generators that create constants from things like the paths of local files, assemblyinfo properties, git branch & commit and more!
 
-# Actual 'dotnet tools' in the formal sense
+## Actual 'dotnet tools' in the formal sense
 
 ## Dependencies & Versioning
 
